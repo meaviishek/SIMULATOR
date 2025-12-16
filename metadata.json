@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent CPU Scheduler",
+  "description": "A modern, interactive CPU scheduling simulator visualizing FCFS, SJF, Round Robin, and Priority algorithms. Features real-time Gantt charts, performance metrics, and AI-powered analysis using Gemini.",
+  "requestFramePermissions": []
+}
